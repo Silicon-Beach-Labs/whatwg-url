@@ -14,16 +14,16 @@
   "dependencies": {
     "lodash.sortby": "^4.7.0",
     "tr46": "^2.0.2",
-    "webidl-conversions": "^5.0.0"
+    "webidl-conversions": "^6.1.0"
   },
   "devDependencies": {
-    "browserify": "^16.5.0",
+    "browserify": "^16.5.1",
     "domexception": "^2.0.1",
-    "eslint": "^6.8.0",
-    "got": "^10.6.0",
-    "jest": "^25.1.0",
-    "recast": "^0.18.7",
-    "webidl2js": "^14.0.0"
+    "eslint": "^7.0.0",
+    "got": "^11.1.2",
+    "jest": "^26.0.1",
+    "recast": "^0.19.1",
+    "webidl2js": "^16.1.0"
   },
   "engines": {
     "node": ">=10"

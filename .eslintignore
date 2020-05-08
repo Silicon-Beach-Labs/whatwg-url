@@ -2,6 +2,8 @@ coverage/
 test/web-platform-tests/
 lib/URL.js
 lib/URLSearchParams.js
+lib/Function.js
+lib/VoidFunction.js
 lib/url-state-machine.js
 lib/urlencoded.js
 lib/utils.js
